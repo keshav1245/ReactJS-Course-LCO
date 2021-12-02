@@ -1,0 +1,5 @@
+1. createContext
+
+2. Provider - whenever there is a provider involved, all we need to remember is that there is a value!
+
+3. Consumer
